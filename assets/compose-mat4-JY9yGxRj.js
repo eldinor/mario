@@ -1,0 +1,1 @@
+import{c as e}from"./index-kSDi_4lC.js";import{n as t}from"./_matrix-allocator-C618Hjh7.js";function n(n,r,i,a,o,s,c,l,u,d){let f=t();return e(f,0,n,r,i,a,o,s,c,l,u,d),f}export{n as t};

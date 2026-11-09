@@ -1,0 +1,1 @@
+import{D as e,E as t,c as n,i as r,r as i,u as a}from"./sockets-P3wvSdov.js";import{R as o}from"./fg-math-iBBB41Hw.js";var s={type:e.ExtractMatrix,build:()=>({dataIn:[i(`input`,t.Matrix)],dataOut:Array.from({length:16},(e,n)=>r(`output_${n}`,t.Number))}),updateOutputs(e,t,r){let i=o(n(t,r,e,`input`));for(let n=0;n<16;n++)a(t,e,`output_${n}`,i[n])}};export{s as extractMatrixDef};

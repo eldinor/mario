@@ -1,0 +1,1 @@
+import{D as e,E as t,c as n,i as r,r as i,u as a}from"./sockets-P3wvSdov.js";import{Bt as o}from"./fg-math-iBBB41Hw.js";var s={type:e.VectorSlerp,build:()=>({dataIn:[i(`a`,t.Any),i(`b`,t.Any),i(`c`,t.Number)],dataOut:[r(`value`,t.Any)]}),updateOutputs(e,t,r){a(t,e,`value`,o(n(t,r,e,`a`),n(t,r,e,`b`),n(t,r,e,`c`)))}};export{s as vectorSlerpDef};

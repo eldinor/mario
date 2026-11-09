@@ -1,0 +1,1 @@
+import{D as e,E as t,c as n,i as r,r as i,u as a}from"./sockets-P3wvSdov.js";import{g as o}from"./fg-math-iBBB41Hw.js";var s={type:e.Clamp,build:()=>({dataIn:[i(`a`,t.Any),i(`b`,t.Any),i(`c`,t.Any)],dataOut:[r(`value`,t.Any)]}),updateOutputs(e,t,r){let i=n(t,r,e,`a`),s=n(t,r,e,`b`),c=n(t,r,e,`c`);a(t,e,`value`,o(i,s,c))}};export{s as clampDef};

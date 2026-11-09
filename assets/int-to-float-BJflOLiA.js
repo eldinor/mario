@@ -1,0 +1,1 @@
+import{D as e,E as t,b as n,c as r,i,r as a,u as o}from"./sockets-P3wvSdov.js";var s={type:e.IntToFloat,build:()=>({dataIn:[a(`a`,t.Integer)],dataOut:[i(`value`,t.Number)]}),updateOutputs(e,t,i){let a=r(t,i,e,`a`);o(t,e,`value`,n(a)?a.value:a)}};export{s as intToFloatDef};

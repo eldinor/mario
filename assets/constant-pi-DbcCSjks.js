@@ -1,0 +1,1 @@
+import{D as e,E as t,i as n,u as r}from"./sockets-P3wvSdov.js";var i={type:e.PI,build:()=>({dataOut:[n(`value`,t.Number)]}),updateOutputs(e,t){r(t,e,`value`,Math.PI)}};export{i as piDef};

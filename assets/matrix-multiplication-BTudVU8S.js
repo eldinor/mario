@@ -1,0 +1,1 @@
+import{D as e,E as t,c as n,i as r,r as i,u as a}from"./sockets-P3wvSdov.js";import{rt as o}from"./fg-math-iBBB41Hw.js";var s={type:e.MatrixMultiplication,build:()=>({dataIn:[i(`a`,t.Any),i(`b`,t.Any)],dataOut:[r(`value`,t.Any)]}),updateOutputs(e,t,r){let i=n(t,r,e,`a`),s=n(t,r,e,`b`);a(t,e,`value`,o(i,s))}};export{s as matrixMultiplicationDef};

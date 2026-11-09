@@ -1,0 +1,1 @@
+import{D as e,E as t,i as n,u as r}from"./sockets-P3wvSdov.js";var i={type:e.GetVariable,build:()=>({dataOut:[n(`value`,t.Any)]}),updateOutputs(e,t){let n=e.config?.variable;r(t,e,`value`,t.userVariables[n])}};export{i as getVariableDef};

@@ -1,0 +1,1 @@
+import{D as e,E as t,c as n,i as r,r as i,u as a}from"./sockets-P3wvSdov.js";import{n as o}from"./fg-math-iBBB41Hw.js";var s={type:e.Acos,build:()=>({dataIn:[i(`a`,t.Any)],dataOut:[r(`value`,t.Any)]}),updateOutputs(e,t,r){let i=n(t,r,e,`a`);a(t,e,`value`,o(i))}};export{s as acosDef};

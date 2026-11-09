@@ -1,0 +1,1 @@
+import{D as e,E as t,c as n,i as r,r as i,u as a,y as o}from"./sockets-P3wvSdov.js";var s={type:e.BooleanToInt,build:()=>({dataIn:[i(`a`,t.Boolean,!1)],dataOut:[r(`value`,t.Integer)]}),updateOutputs(e,t,r){a(t,e,`value`,o(+!!n(t,r,e,`a`)))}};export{s as booleanToIntDef};

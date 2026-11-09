@@ -1,0 +1,1 @@
+import{D as e,E as t,a as n,c as r,n as i,r as a,t as o}from"./sockets-P3wvSdov.js";var s={type:e.Branch,build:()=>({dataIn:[a(`condition`,t.Boolean,!1)],signalIn:[o(`in`)],signalOut:[i(`onTrue`),i(`onFalse`)]}),execute(e,t,i){r(t,i,e,`condition`)?n(t,i,e,`onTrue`):n(t,i,e,`onFalse`)}};export{s as branchDef};

@@ -1,0 +1,1 @@
+import{D as e,E as t,i as n,u as r}from"./sockets-P3wvSdov.js";var i={type:e.Constant,build:()=>({dataOut:[n(`value`,t.Any)]}),updateOutputs(e,t){r(t,e,`value`,e.config?.value??void 0)}};export{i as constantDef};

@@ -1,0 +1,1 @@
+import{D as e,E as t,c as n,i as r,r as i,u as a}from"./sockets-P3wvSdov.js";import{Tt as o}from"./fg-math-iBBB41Hw.js";var s={type:e.Rotate2D,build:()=>({dataIn:[i(`a`,t.Vector2),i(`b`,t.Number)],dataOut:[r(`value`,t.Vector2)]}),updateOutputs(e,t,r){let i=n(t,r,e,`a`),s=n(t,r,e,`b`);a(t,e,`value`,o(i,s))}};export{s as rotate2DDef};

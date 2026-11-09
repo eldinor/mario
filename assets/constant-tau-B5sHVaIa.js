@@ -1,0 +1,1 @@
+import{D as e,E as t,i as n,u as r}from"./sockets-P3wvSdov.js";var i={type:e.Tau,build:()=>({dataOut:[n(`value`,t.Number)]}),updateOutputs(e,t){r(t,e,`value`,2*Math.PI)}};export{i as tauDef};
